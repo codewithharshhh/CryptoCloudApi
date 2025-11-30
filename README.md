@@ -4,14 +4,14 @@ A complete .NET 10 API integration for CryptoCloud cryptocurrency payment gatewa
 
 ## Features
 
-? **Invoice Creation** - Create payment invoices via CryptoCloud API
-? **Automatic Status Monitoring** - Background service checks pending transactions
-? **Postback Webhook** - Automatic notification handling when payments complete
-? **JWT Verification** - Secure postback validation using JWT tokens
-? **Database Persistence** - SQLite database for invoice and transaction storage
-? **Transaction History** - Track all blockchain transactions for each invoice
-? **Payment Statistics** - Real-time payment analytics and reporting
-? **Swagger UI** - Interactive API documentation and testing
+ **Invoice Creation** - Create payment invoices via CryptoCloud API
+ **Automatic Status Monitoring** - Background service checks pending transactions
+ **Postback Webhook** - Automatic notification handling when payments complete
+ **JWT Verification** - Secure postback validation using JWT tokens
+ **Database Persistence** - SQLite database for invoice and transaction storage
+ **Transaction History** - Track all blockchain transactions for each invoice
+ **Payment Statistics** - Real-time payment analytics and reporting
+ **Swagger UI** - Interactive API documentation and testing
 
 ## Quick Start
 
